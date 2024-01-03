@@ -1,2 +1,2 @@
-# Sigit_Jarkasih_Submission_Machine_Learning_Klasifikasi_Gambar.ipynb
 Dicoding Submission: Belajar Machine Learning untuk Pemula
+Repositori ini merupakan hasil kiriman saya pada kelas Dicoding Pelajari Machine Learning untuk Pemula Semoga repositori saya dapat bermanfaat untuk dijadikan referensi.
