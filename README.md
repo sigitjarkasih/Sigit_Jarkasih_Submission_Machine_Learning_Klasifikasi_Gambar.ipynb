@@ -1,0 +1,2 @@
+# Sigit_Jarkasih_Submission_Machine_Learning_Klasifikasi_Gambar.ipynb
+Dicoding Submission: Belajar Machine Learning untuk Pemula
